@@ -1,4 +1,4 @@
-### Olá! Eus sou o Rafael Simões ✌🏾
+### Olá! Eu sou o Rafael Simões ✌🏾
 
 ### Redes Sociais
 
