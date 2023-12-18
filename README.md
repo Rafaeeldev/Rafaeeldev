@@ -26,3 +26,5 @@
 <div style="display: inline_block">
     <img align="center" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
 </div>
+
+![Snake animation](https://github.com/rafaeeldev/rafaeeldev/blob/output/github-contribution-grid-snake.svg)
