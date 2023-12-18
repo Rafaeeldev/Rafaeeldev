@@ -5,11 +5,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_rafaellsimoes/)
 
-### Meu Canal do Youtube
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCz6l8Jka8AbqrK5o55u2JlA)
-
-
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaeeldev&show_icons=true&bg_color=00000000)
 
 ## Tecnologias que estou estudando
